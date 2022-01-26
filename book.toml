@@ -1,0 +1,9 @@
+[book]
+authors = ["Christopher H. Jordan"]
+language = "en"
+multilingual = false
+src = "src"
+title = "mdbook-test"
+
+[output.html]
+mathjax-support = true
